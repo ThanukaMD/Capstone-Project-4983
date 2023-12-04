@@ -28,7 +28,7 @@ Navigate to your web server's directory (e.g., htdocs for XAMPP).
 Copy the cloned project into this directory.
 Start the Web Server:
 
-Run your PHP server (XAMPP/WAMP) and start the Apache and MongoDB services.
+Run your PHP server (XAMPP/WAMP) and start the MongoDB services.
 Configure the Database:
 
 Open MongoDB and create a new database named aio_db (or as per your project configuration).
@@ -54,8 +54,9 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some amazing features')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+
 Authors
-Thanuka Mabulage Don: https://github.com/ThanukaMD
+Thanuka Mabulage: https://github.com/ThanukaMD
 Dadayakkara Dewege Poorna: https://github.com/erangith
 
 Acknowledgments
